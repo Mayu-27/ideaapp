@@ -1,0 +1,15 @@
+current directory: /Users/mayuebina/projects/ideaapp/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.7/ext/bootsnap
+/Users/mayuebina/.rbenv/versions/2.6.5/bin/ruby -I /Users/mayuebina/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20210804-12132-kbnp1b.rb extconf.rb
+creating Makefile
+
+current directory: /Users/mayuebina/projects/ideaapp/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.7/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/mayuebina/projects/ideaapp/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.7/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/mayuebina/projects/ideaapp/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.7/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210804-12132-xby0c8/bootsnap
